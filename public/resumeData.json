@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"I'm Moshin G.",
+    "description":"Hi ! I am a Subject and Solution Oriented  Web Developer with wide variety of professional experiences. Being expert in both back end and front end development, I have successful working career in both team and self-directed settings",
+    "image":"profilepic.jpg",
+    "bio":"I am an freelancer, with an entrepreneurial spirit, a knack for network security, and a passion for coding, I pursued my first development job to kick off my career. I was hired as a full stack developer by Iugale Services Pvt Ltd, where I worked for 1.5 years. Since beginning my career there, I have been given the opportunity to develop websites for clients. I am currently working towards my freelancing career while working as a full stack developer.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "moshin.i.g@gmail.com",
+    "phone": "+91 7204151416 ",
+    "github":"/",
+    "project":"/",
+    "address":{
+      "street":"(Jai Karnataka Colony Sindagi Naka)",
+      "city":"(Bijapur)",
+      "state":"(karnataka)",
+      "zip": "(586104)"
+    },
+    "website": "/",
+    "resumedownload":"https://drive.google.com/file/d/1RwJLoODGIm2XE6btRK6maav8A-Wa3QsW/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Moshin.Gachinmal/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/moshin_g",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/moshin-g-0b9599130/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/moshin_g/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/moshin04",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Bangalore Institute Of Techonology",
+        "degree":"Bachelors in Computer Science, Software Engineering Option",
+        "graduated":"April 2018",
+        "description":" I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school":"BLDE Association's Polytechnic",
+        "degree":"Diploma in Computer Science",
+        "graduated":"August 2015",
+        "description":"I studied Computer Systems Technology, a 3 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, developed minor websites,a lot of Java and C++ programming for data structures, and much more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Working As Freelancer",
+        "title":"Freelance Full Stack Web Developer",
+        "years":"October 2020 - Present",
+        "description":"Currently working as a freelance full stack web developer i develop dynamic and reusable design systems. Establish consistency and predictability across the internet. Easy to manage, maintain, share and iterate."
+      },
+      {
+        "company":"Iugale Services Pvt Ltd",
+        "title":"Full Stack Developer",
+        "years":"June 2018 - October 2020",
+        "description":"For most of my time at Iugale Services Pvt Ltd, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks."
+      }
+    ],
+    "skills":[
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"65%"
+      },
+      {
+        "name":"Reactjs",
+        "level":"45%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"60%"
+      },
+      {
+        "name":"Node.js",
+        "level":"45%"
+      },
+      {
+        "name":"SQL/NOSQL",
+        "level":"40%"
+      },
+      {
+        "name":"UI Design",
+        "level":"65%"
+      },
+      {
+        "name":"PHP",
+        "level":"35%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Moin Bariatrics",
+        "category":"Doctor website for moin bariatrics",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://moinbariatrics.com/"
+      },
+      {
+        "title":"Province college",
+        "category":"A college website for province developed at Iugale",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://www.provincecollege.edu.in/"
+      },
+      {
+        "title":"Siddeshwara travels",
+        "category":"Web-Application for siddeshwara travels implemented payment gateway",
+        "image":"original-thai-food.jpg",
+        "url":"https://www.siddeshwaratravels.in/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":"/"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"/"
+      }
+    ]
+  }
+}
